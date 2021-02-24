@@ -1,6 +1,6 @@
 # # Clever Programmer ReactJS Portfolio Template      
 
-![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](my-portfolio.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://harikesh409.github.io/portfolio-react-cp" target="_blank">LIVE DEMO</a>
 
